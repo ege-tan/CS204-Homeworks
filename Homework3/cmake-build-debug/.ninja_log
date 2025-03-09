@@ -1,0 +1,9 @@
+# ninja log v5
+1	303	1711886103493833067	CMakeFiles/Homework3.dir/UndoStack.cpp.o	a2abdf223b42048c
+0	314	1711886103504962889	CMakeFiles/Homework3.dir/main.cpp.o	c18889e8f91e61a0
+1	325	1711886103516405210	CMakeFiles/Homework3.dir/EmployeeProject2DLL.cpp.o	3b4cc0c60eb0e689
+325	365	1711886103556669876	Homework3	bf0b2aad574b8937
+3	306	1711886139735091459	CMakeFiles/Homework3.dir/UndoStack.cpp.o	725b2789a042d67d
+2	308	1711886139736629416	CMakeFiles/Homework3.dir/main.cpp.o	2fb76b5d1729553b
+3	333	1711886139761983264	CMakeFiles/Homework3.dir/EmployeeProject2DLL.cpp.o	ab7ff99807cf9f93
+333	374	1711886139803728346	Homework3	49c568122e5aef28

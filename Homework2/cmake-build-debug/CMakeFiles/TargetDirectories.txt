@@ -1,0 +1,3 @@
+/Users/egetan/Desktop/Homework2/cmake-build-debug/CMakeFiles/Homework2.dir
+/Users/egetan/Desktop/Homework2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/egetan/Desktop/Homework2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
