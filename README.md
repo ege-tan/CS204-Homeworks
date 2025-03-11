@@ -1,6 +1,6 @@
 # 🚀 CS 204 - Advanced Programming (Spring 2022)
 
-This repository contains my coursework, assignments, and key takeaways from **CS 204: Advanced Programming**. This course provided deep insight into **advanced C++ programming**, focusing on **object-oriented design, memory management, and data structures**.
+This repository contains my assignments from **CS 204: Advanced Programming**. This course provided deep insight into **advanced C++ programming**, focusing on **object-oriented design, memory management, and data structures**.
 
 ---
 
